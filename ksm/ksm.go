@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/cooomma/fairplay-ksm/cryptos"
-	"github.com/cooomma/fairplay-ksm/logger"
+	"github.com/arabian9ts/fairplay-ksm/cryptos"
+	"github.com/arabian9ts/fairplay-ksm/logger"
 )
 
 // SPCContainer represents a container to contain SPC message filed.

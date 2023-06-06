@@ -1,4 +1,4 @@
-module github.com/cooomma/fairplay-ksm
+module github.com/arabian9ts/fairplay-ksm
 
 go 1.17
 

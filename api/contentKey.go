@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"math/rand"
 
-	"github.com/cooomma/fairplay-ksm/ksm"
+	"github.com/arabian9ts/fairplay-ksm/ksm"
 )
 
 type RandomContentKey struct {
